@@ -1,0 +1,24 @@
+texto: el errores errores respuesta ¿listo? código café la Bogotá código despacio respuesta en errores sin rápido compila responde arepa servidor calma
+stop_reason: end_turn
+input_tokens: 3328
+output_tokens: 592
+texto: tinto la tinto mañana modelo mañana Bogotá datos código hola
+stop_reason: max_tokens
+input_tokens: 1775
+output_tokens: 647
+texto: la tinto servidor errores compila arepa tinto en despacio ¡vamos! la errores
+stop_reason: end_turn
+input_tokens: 2617
+output_tokens: 328
+texto: código código despacio está tinto Bogotá
+stop_reason: end_turn
+input_tokens: 1479
+output_tokens: 140
+texto: hola en la lloverá en calma
+stop_reason: max_tokens
+input_tokens: 2617
+output_tokens: 683
+texto: gracias en Bogotá datos servidor arepa responde la calma ¿listo?
+stop_reason: end_turn
+input_tokens: 1397
+output_tokens: 711

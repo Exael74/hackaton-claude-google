@@ -1,0 +1,22 @@
+tool_result toolu_01 1201
+tool_result toolu_02 14 °C
+tool_result toolu_03 error: ciudad desconocida: Pasto
+tool_result toolu_04 26 °C
+tool_result toolu_05 error: herramienta desconocida: traductor
+tool_result toolu_06 26 °C
+tool_result toolu_07 error: herramienta desconocida: correo
+tool_result toolu_08 343
+tool_result toolu_09 23359
+tool_result toolu_10 24 °C
+tool_result toolu_11 260568
+tool_result toolu_12 52140
+tool_result toolu_13 14 °C
+tool_result toolu_14 error: herramienta desconocida: correo
+tool_result toolu_15 26 °C
+tool_result toolu_16 19068
+tool_result toolu_17 error: ciudad desconocida: Tunja
+tool_result toolu_18 -52
+tool_result toolu_19 14 °C
+tool_result toolu_20 570
+final: Listo, revisé 20 resultados.
+resumen: 20 llamadas, 5 errores
